@@ -3,12 +3,13 @@
 
 ## Introduction
 
-Here I am introducting
+Here I am introducting adding stuff
 
 ## Data
 
 ``` python
 ## shift command i
+import pandas as pd 
 ```
 
 ## Methods
@@ -16,3 +17,5 @@ Here I am introducting
 ## Results
 
 ## Discussion
+
+text
