@@ -1,0 +1,24 @@
+---
+title: "Data Wrangling Final Project"
+format: gfm
+---
+
+## Introduction 
+
+Here I am introducting 
+
+
+## Data 
+
+```{python}
+## shift command i
+import pandas as pd 
+
+```
+
+
+## Methods 
+
+## Results 
+
+## Discussion 
